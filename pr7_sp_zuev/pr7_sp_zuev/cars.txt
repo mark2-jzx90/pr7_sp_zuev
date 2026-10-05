@@ -1,0 +1,3 @@
+Toyota;Camry;A111AA;3000;0;Svoboden
+Kia;Stinger;B222BB;1500;3;Zanyat
+Toyota;Chaser;X886BO;1600;0;Svoboden
